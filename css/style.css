@@ -20,6 +20,12 @@
 .first-jumbotron{
     height: 500px;
     width: 100%;
+    background-color: rgb(240, 207, 99);
+}
+
+.rtn{
+    background-color: rgb(134, 111, 6);
+    height: 500px;
 }
 
 /* UTILITIES */
