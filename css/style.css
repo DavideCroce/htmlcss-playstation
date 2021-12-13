@@ -1,0 +1,18 @@
+/* LAYOUT */
+
+.top-header{
+    width: 100%;
+    background-color: black;
+    height: 30px;
+}
+
+.bottom-header{
+    width: 100%;
+    background-color: rgb(182, 182, 7);
+    height: 50px;
+}
+
+.column{
+    height: 25px;
+    background-color: darkgoldenrod;
+}
