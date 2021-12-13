@@ -15,6 +15,7 @@
 .column{
     height: 25px;
     background-color: darkgoldenrod;
+    border: solid 1px black;
 }
 
 .first-jumbotron{
