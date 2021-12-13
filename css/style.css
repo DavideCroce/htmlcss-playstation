@@ -60,7 +60,20 @@
 
 .cnsl{
     background-color: fuchsia;
-    min-height: 400px;
+    min-height: 200px;
+    border: solid 1px black;
+}
+
+.products{
+    height: 200px;
+    width: 100%;
+    background-color: violet;
+}
+
+.prd{
+    background-color: purple;
+    min-height: 150px;
+    border: solid 1px black;
 }
 
 /* ROW'S HEIGHTS */
@@ -74,6 +87,10 @@
 }
 
 .ps5 .row{
+    height: 100%;
+}
+
+.products .row{
     height: 100%;
 }
 
