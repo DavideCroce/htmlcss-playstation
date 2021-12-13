@@ -185,6 +185,14 @@ footer{
     border: solid 1px black;
 }
 
+.top-header,
+.products,
+.sales,
+.socials,
+footer{
+    color: white;
+}
+
 /* ROW'S HEIGHTS */
 
 .bottom-header .row{
