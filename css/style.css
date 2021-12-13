@@ -72,8 +72,56 @@
 
 .prd{
     background-color: purple;
-    min-height: 150px;
+    min-height: 100px;
     border: solid 1px black;
+}
+
+.second-jumbotron{
+    height: 400px;
+    width: 100%;
+    background-color: darkblue;
+}
+
+.itt{
+    background-color: rgb(80, 80, 245);
+    height: 80%;
+}
+
+.new-out{
+    height: 600px;
+    width: 100%;
+    background-color: #1f1f1f;
+}
+
+.n-out{
+    height: 70px;
+    background-color: white;
+    border: solid 1px black;
+}
+
+.explore-ps4{
+    height: 600px;
+    width: 100%;
+    background-color: dodgerblue;
+}
+
+.ps4{
+    height: 100px;
+    background-color: rgb(82, 196, 235);
+    border: solid 1px black;
+}
+
+.p-plus{
+    height: 400px;
+    width: 100%;
+    background-color: #bebcbb;
+}
+
+.play-plus{
+    height: 300px;
+    background-color: rgb(0, 255, 136);
+    border: solid 1px black;
+
 }
 
 /* ROW'S HEIGHTS */
@@ -93,4 +141,21 @@
 .products .row{
     height: 100%;
 }
+
+.second-jumbotron .row{
+    height: 100%;
+}
+
+.p-plus .row{
+    height: 100%;
+}
+
+/* QUERY BOTTOM-HEADER */
+
+@media screen and (max-width: 767px){
+    .bottom-header .row{
+        justify-content: space-between;
+    }
+}
+
 
