@@ -40,7 +40,7 @@
     border: solid 1px black;
 }
 
-*/
+
 
 .here-ps5{
     height: 200px;
@@ -54,6 +54,7 @@
     background-color: #fff;
 }
 
+
 .ps5{
     height: 500px;
     background-color: pink;
@@ -65,6 +66,8 @@
     min-height: 200px;
     border: solid 1px black;
 }
+
+*/
 
 .products{
     height: 200px;
@@ -241,6 +244,13 @@ footer .row{
     }
 }
 
+/* ULTILITIES */
+
+.descriptions{
+    color: grey;
+    font-size: 20px; 
+}
+
 /* IMG RESIZE */
 
 .rtnl{
@@ -250,6 +260,10 @@ footer .row{
 .link-games img{
     width: 100%;
     border-radius: 10px;
+}
+
+.ps5 img{
+    width: 100%;
 }
 
 /* HEADER */
@@ -308,5 +322,24 @@ footer .row{
     border-radius: 20px;
 }
 
+/* PS5 */
+
+.links{
+    color: dodgerblue;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.here-ps5 h1{
+    font-size: 40px;
+}
+
+.m-info{
+    background-color: dodgerblue;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+}
 
 
