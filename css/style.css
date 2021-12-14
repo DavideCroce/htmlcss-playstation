@@ -385,6 +385,18 @@ main{
     border-radius: 20px;
 }
 
+/* PRODUCTS */
+
+.prd{
+    opacity: 0.5;
+}
+
+.products p{
+    color: black;
+    font-weight: 400;
+    font-size: 16px;
+}
+
 /* SECONDO JUMBOTRON */
 
 .second-jumbotron{
@@ -522,6 +534,13 @@ footer li{
 
 footer ul{
     vertical-align: text-top;
+}
+
+/* HOVERS */
+
+.prd:hover{
+    opacity: 1;
+    border-bottom: solid 2px dodgerblue;
 }
 
 
