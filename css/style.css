@@ -1,10 +1,4 @@
-/* LAYOUT DA*/
-
-.top-header{
-    width: 100%;
-    background-color: black;
-    height: 30px;
-}
+/* LAYOUT DA
 
 .bottom-header{
     width: 100%;
@@ -17,6 +11,8 @@
     background-color: darkgoldenrod;
     border: solid 1px black;
 }
+
+*/
 
 .first-jumbotron{
     height: 400px;
@@ -234,12 +230,48 @@ footer .row{
 
 /* QUERY BOTTOM-HEADER */
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 991px){
     .bottom-header .row{
         justify-content: space-between;
     }
 }
 
 /* IMG RESIZE */
+
+/* HEADER */
+
+.top-header{
+    width: 100%;
+    background-color: black;
+    height: 30px;
+}
+
+.fa-bars{
+    font-size: 20px;
+    padding: 5px 15px;
+    border: solid 1px rgb(204, 203, 203);
+}
+
+.bottom-header li{
+    display: inline;
+    font-size: 20px;
+}
+
+.bottom-header ul{
+    display: inline;
+}
+
+.btn{
+    border: none;
+    background: none;
+}
+
+.hdr-btn{
+    color: white;
+    background-color: #363636;
+    padding: 5px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
 
 
