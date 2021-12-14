@@ -542,6 +542,7 @@ footer ul{
 .prd:hover{
     opacity: 1;
     border-bottom: solid 2px dodgerblue;
+    cursor: pointer;
 }
 
 a:hover{
@@ -561,6 +562,7 @@ a:hover{
     border: solid 1px #363636;
     color: white;
     border-radius: 30px;
+    cursor: pointer;
 }
 
 .first-jumbotron .btn:hover,
@@ -569,6 +571,7 @@ a:hover{
     border: solid 1px #cd3d0f;
     color: white;
     border-radius: 30px;
+    cursor: pointer;
 }
 
 .ps5 .btn:hover,
@@ -578,6 +581,7 @@ a:hover{
     border: solid 1px dodgerblue;
     color: white;
     border-radius: 30px;
+    cursor: pointer;
 }
 
 .p-plus .btn:hover{
@@ -585,24 +589,28 @@ a:hover{
     border: solid 1px lightgrey;
     color: white;
     border-radius: 30px;
+    cursor: pointer;
 }
 
 .ps-now .btn:hover{
     padding: 10px;
     border: solid 1px white;
     border-radius: 30px;
+    cursor: pointer;
 }
 
 .n-out img:hover{
     padding: 10px;
     border: solid 1px white;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 .gms:hover{
     padding: 10px;
     border: solid 2px blue;
     border-radius: 10px;
+    cursor: pointer;
 }
 
 
