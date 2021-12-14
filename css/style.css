@@ -240,10 +240,16 @@ footer .row{
     height: 100%;
 }
 
-/* QUERY BOTTOM-HEADER */
+/* QUERIES */
 
 @media screen and (max-width: 991px){
     .bottom-header .row{
+        justify-content: space-between;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .products .row{
         justify-content: space-between;
     }
 }
