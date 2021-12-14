@@ -352,6 +352,7 @@ main{
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
+    background-position-y: top;
     color: white;
     padding-top: 300px;
     padding-bottom: 50px;
@@ -541,6 +542,67 @@ footer ul{
 .prd:hover{
     opacity: 1;
     border-bottom: solid 2px dodgerblue;
+}
+
+a:hover{
+    color: white;
+}
+
+.p-plus a:hover{
+    color: dodgerblue;
+}
+
+.ps-now a:hover{
+    color: black;
+}
+
+.bottom-header .btn:hover{
+    padding: 15px;
+    border: solid 1px #363636;
+    color: white;
+    border-radius: 30px;
+}
+
+.first-jumbotron .btn:hover,
+.second-jumbotron .btn:hover{
+    padding: 20px;
+    border: solid 1px #cd3d0f;
+    color: white;
+    border-radius: 30px;
+}
+
+.ps5 .btn:hover,
+.explore-ps4 .btn:hover{
+    text-align: center;
+    padding: 20px;
+    border: solid 1px dodgerblue;
+    color: white;
+    border-radius: 30px;
+}
+
+.p-plus .btn:hover{
+    padding: 20px;
+    border: solid 1px lightgrey;
+    color: white;
+    border-radius: 30px;
+}
+
+.ps-now .btn:hover{
+    padding: 10px;
+    border: solid 1px white;
+    border-radius: 30px;
+}
+
+.n-out img:hover{
+    padding: 10px;
+    border: solid 1px white;
+    border-radius: 10px;
+}
+
+.gms:hover{
+    padding: 10px;
+    border: solid 2px blue;
+    border-radius: 10px;
 }
 
 
