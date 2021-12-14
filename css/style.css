@@ -171,19 +171,14 @@
     height: 100px;
 }
 
-*/
-
-footer{
-    height: 600px;
-    width: 100%;
-    background-color: #00439c;
-}
 
 .ftr{
     height: 150px;
     background-color: darkblue;
     border: solid 1px black;
 }
+
+*/
 
 .top-header,
 .products,
@@ -496,6 +491,35 @@ main{
 .socials img{
     width: 100%;
 }
+
+/* FOOTER */
+
+footer{
+    width: 100%;
+    background-color: #00439c;
+}
+
+.sie-ftr img{
+    width: 40%;
+}
+
+footer .fa-registered{
+    font-size: 10px;
+    vertical-align: text-bottom;
+}
+
+footer li{
+    list-style-type: none;
+}
+
+.fa-playstation{
+    font-size: 100px;
+}
+
+.footered a{
+    color: white;
+}
+
 
 
 
