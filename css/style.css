@@ -94,19 +94,14 @@
     height: 80%;
 }
 
-*/
-
-.new-out{
-    height: 600px;
-    width: 100%;
-    background-color: #1f1f1f;
-}
 
 .n-out{
     height: 70px;
     background-color: white;
     border: solid 1px black;
 }
+
+*/
 
 .explore-ps4{
     height: 600px;
@@ -284,6 +279,11 @@ footer .row{
     width: 250px;
 }
 
+.new-out img{
+    width: 100%;
+    border-radius: 10px;
+}
+
 /* HEADER */
 
 .top-header{
@@ -374,4 +374,31 @@ footer .row{
 .second-jumbotron h1{
     font-size: 40px;
 }
+
+/* NEW OUT */
+
+.new-out{
+    width: 100%;
+    background-color: #1f1f1f;
+    color: white;
+}
+
+.desc{
+    font-size: 28px;
+}
+
+.new-out h2{
+    font-size: 40px;
+}
+
+.fa-trademark{
+    font-size: 10px;
+    padding-right: 5px;
+    vertical-align: text-top;
+}
+
+.n-out p{
+    font-size: 18px;
+}
+
 
