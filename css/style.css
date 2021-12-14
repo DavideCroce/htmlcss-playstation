@@ -115,19 +115,14 @@
     border: solid 1px black;
 }
 
-*/
-
-.p-plus{
-    height: 400px;
-    width: 100%;
-    background-color: #bebcbb;
-}
 
 .play-plus{
     height: 300px;
     background-color: rgb(0, 255, 136);
     border: solid 1px black;
 }
+
+*/
 
 .sales{
     height: 500px;
@@ -291,6 +286,14 @@ footer .row{
     width: 100%;
 }
 
+.p-pl{
+    width: 60%;
+}
+
+.img-pl{
+    width: 100%;
+}
+
 /* HEADER */
 
 .top-header{
@@ -420,6 +423,21 @@ footer .row{
     padding: 10px 15px;
     text-decoration: none;
     background-color: dodgerblue;
+    border-radius: 20px;
+}
+
+/* PLAYSTATION PLUS */
+
+.p-plus{
+    width: 100%;
+    background-color: #bebcbb;
+}
+
+.expl-plp{
+    color: dodgerblue;
+    padding: 10px 15px;
+    text-decoration: none;
+    background-color: lightgrey;
     border-radius: 20px;
 }
 
