@@ -67,7 +67,7 @@
     border: solid 1px black;
 }
 
-*/
+
 
 .products{
     height: 200px;
@@ -80,6 +80,8 @@
     min-height: 100px;
     border: solid 1px black;
 }
+
+*/
 
 .second-jumbotron{
     height: 400px;
@@ -307,8 +309,9 @@ footer .row{
 
 .first-jumbotron{
     background-image: url(../img/jumbo-bg.png);
-    background-size: cover;
     background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
     color: white;
     padding-top: 300px;
     padding-bottom: 50px;
@@ -342,4 +345,9 @@ footer .row{
     border-radius: 20px;
 }
 
+/* PRODUCTS */
+
+.products img{
+    width: 100%;
+}
 
