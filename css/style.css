@@ -27,7 +27,6 @@
     height: 400px;
 }
 
-*/
 
 .link-games{
     background-color: orange;
@@ -40,6 +39,8 @@
     min-height: 75px;
     border: solid 1px black;
 }
+
+*/
 
 .here-ps5{
     height: 200px;
@@ -244,6 +245,11 @@ footer .row{
 
 .rtnl{
     width: 50%;
+}
+
+.link-games img{
+    width: 100%;
+    border-radius: 10px;
 }
 
 /* HEADER */
